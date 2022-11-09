@@ -1,0 +1,15 @@
+C:\Users\arpit\Documents\keylogger-main\bin\Debug\net6.0-windows\keylogger-main.exe
+C:\Users\arpit\Documents\keylogger-main\bin\Debug\net6.0-windows\keylogger-main.deps.json
+C:\Users\arpit\Documents\keylogger-main\bin\Debug\net6.0-windows\keylogger-main.runtimeconfig.json
+C:\Users\arpit\Documents\keylogger-main\bin\Debug\net6.0-windows\keylogger-main.dll
+C:\Users\arpit\Documents\keylogger-main\bin\Debug\net6.0-windows\keylogger-main.pdb
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.csproj.AssemblyReference.cache
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.AssemblyInfoInputs.cache
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.AssemblyInfo.cs
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.csproj.CoreCompileInputs.cache
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.dll
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\refint\keylogger-main.dll
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.pdb
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\keylogger-main.genruntimeconfig.cache
+C:\Users\arpit\Documents\keylogger-main\obj\Debug\net6.0-windows\ref\keylogger-main.dll
